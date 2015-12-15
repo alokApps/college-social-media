@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+#about1
+{
+	padding-left:40px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+	background-color:rgba(1,1,1,0.3);
+	height:170px;
+	width:500px;
+	margin-left:100px;
+	margin-top:40px;
+}
+#about{
+	margin-left:150px;
+	margin-top:-150px;
+	font-size:18px;
+	padding-bottom:20px;
+}
+#mam
+{
+	width:400px;
+	float:right;
+	font-size:18px;
+	background-color:rgba(1,1,1,0.3);
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-right:50px;
+	margin-top:-1450px;
+	padding-bottom:20px;
+}
+#about2
+{
+	text-align:center;
+	margin-top:20px;
+}
+#about3
+{
+padding-left:40px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+	background-color:rgba(1,1,1,0.3);
+	height:200px;
+	width:500px;
+	margin-left:100px;
+	margin-top:40px;
+	
+}
